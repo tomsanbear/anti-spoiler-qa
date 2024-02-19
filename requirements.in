@@ -1,0 +1,8 @@
+bs4
+cohere
+ebooklib
+inquirer
+python-dotenv
+tqdm
+numpy
+halo
